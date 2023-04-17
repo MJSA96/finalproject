@@ -1,2 +1,4 @@
 # finalproject
-Final implementation and evaluation + project sketch
+Final implementation and evaluation report
+Project sketch in JS
+Arduino Leonardo sketch
